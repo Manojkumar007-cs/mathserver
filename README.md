@@ -154,9 +154,9 @@ urlpatterns = [
 
 ![alt text](<Screenshot 2024-12-07 133349.png>)
 
-# HOMEPAGE:!
+# HOMEPAGE:
 
-[alt text](<Screenshot 2024-12-07 133349.png>)
+![alt text](<Screenshot 2024-12-07 133349.png>)
 
 # RESULT:
 
