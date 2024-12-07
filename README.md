@@ -156,7 +156,7 @@ urlpatterns = [
 
 # HOMEPAGE:
 
-![alt text](<Screenshot 2024-12-07 133349.png>)
+![Screenshot 2024-12-07 133256](https://github.com/user-attachments/assets/51f45eb9-06d3-4b8b-9341-af011d198c54)
 
 # RESULT:
 
